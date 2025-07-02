@@ -18,9 +18,9 @@ A RESTful API built with C# (.NET 9) for managing products, users, and orders. T
 - ASP.NET Core Web API
 
 
-### API Endpoints
+## API Endpoints
 
-#### Products
+### Products
 
 - `GET /api/products` - Get all products
 - `GET /api/products/{id}` - Get product by ID
@@ -28,7 +28,7 @@ A RESTful API built with C# (.NET 9) for managing products, users, and orders. T
 - `PUT /api/products/{id}` - Update a product
 - `DELETE /api/products/{id}` - Delete a product
 
-#### Users & Orders
+### Users & Orders
 
 - Similar endpoints exist for users and orders (see respective controllers).
 
