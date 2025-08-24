@@ -1,3 +1,0 @@
-{
-  "connstr": "Server = localhost; Database = ASP.NET.DB01 ; User Id = sa; Password = SA123456; Encrypt = False; TrustServerCertificate = True; Connection Timeout = 30;"
-}
